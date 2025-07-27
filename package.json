@@ -1,0 +1,14 @@
+{
+  "name": "tabnavigator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "electron/main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"No tests\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MPL-2.0",
+  "type": "commonjs"
+}
